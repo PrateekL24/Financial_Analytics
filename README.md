@@ -4,7 +4,7 @@ Without analyzing the competition, it is difficult for a business to survive. Yo
 tasked to analyze the competition for the management to provide better results.
 
 # Methodology
-1.	Dataset Download:
+1)	Dataset Download:
   •	Identify the relevant dataset for your project.
   •	Determine the source of the dataset, such as public repositories or online data portals.
   •	Download the dataset and save it in a suitable directory.

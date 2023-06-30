@@ -3,7 +3,7 @@ Problem Statement:
 Without analyzing the competition, it is difficult for a business to survive. You are
 tasked to analyze the competition for the management to provide better results.
 
-# Method
+# Methodology
 1.	Dataset Download:
   •	Identify the relevant dataset for your project.
   •	Determine the source of the dataset, such as public repositories or online data portals.

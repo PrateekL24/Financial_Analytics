@@ -5,9 +5,9 @@ tasked to analyze the competition for the management to provide better results.
 
 # Method
 1.	Dataset Download:
-•	Identify the relevant dataset for your project.
-•	Determine the source of the dataset, such as public repositories or online data portals.
-•	Download the dataset and save it in a suitable directory.
+  •	Identify the relevant dataset for your project.
+  •	Determine the source of the dataset, such as public repositories or online data portals.
+  •	Download the dataset and save it in a suitable directory.
 2.	Data Cleaning:
 •	Assess the dataset for missing values, outliers, inconsistencies, and other data quality issues.
 •	Develop a data cleaning plan to address the identified issues.
